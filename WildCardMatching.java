@@ -47,8 +47,8 @@ class Solution {
 
 
 //Approach - 2: 4 Pointers
-//Time Complexity : O(n)
-//Space Complexity : 
+//Time Complexity : O(SlogP)
+//Space Complexity : O(1
 
 class Solution {
     public boolean isMatch(String s, String p) {
